@@ -2,8 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "category": "equipment",
     "ingredients": [
+        "#doggo:tennis_dye",
         "minecraft:string",
-        "minecraft:green_dye",
         "minecraft:slime_ball"
     ],
     "result": {

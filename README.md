@@ -12,7 +12,7 @@ This datapack can only run on a Fabric server, as Filament is a Fabric mod.
 [Polymer](https://modrinth.com/mod/polymer) so people don't need to install mods to use the custom items.
 
 ## Tennis Ball
-Craft with a slime ball for bounciness, green dye for color, and string to tie it all together
+Craft with a slime ball for bounciness, green dye for color (lime works too), and string to tie it all together
 
 <img width="188" height="128" alt="tennisCraft" src="https://github.com/user-attachments/assets/d46b4487-95bb-4f89-b47d-8b917dcb867c" />
 
