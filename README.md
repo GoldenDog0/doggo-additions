@@ -1,6 +1,7 @@
 # Doggo Additions
 A Filament Minecraft datapack because I got bored.
-Adds some items that I figured would be cool.
+
+Adds various small items that are more for fun than utility.
 
 # Requirements
 This datapack can only run on a Fabric server, as Filament is a Fabric mod.
@@ -35,4 +36,5 @@ This item temporairly freezes water when it hits, helping to create platforms in
 
 <img width="512" height="512" alt="iceballin" src="https://github.com/user-attachments/assets/a2c81386-71cf-4a3c-ae7a-8b5e55ac2c82" />
 
-
+# Why isn't this on Modrinth or any other website?
+I made this for me and some friends, so I don't really feel like making it *that* public. I only have it here for ease of sharing and updates.
