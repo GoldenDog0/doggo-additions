@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "s": "minecraft:snowball"
+    },
+    "pattern": [
+        "sss",
+        "sss",
+        "sss"
+    ],
+    "result": {
+        "count": 1,
+        "id": "doggo:iceball"
+    }
+}

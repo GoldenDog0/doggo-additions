@@ -1,0 +1,20 @@
+id: doggo:tennis_ball
+vanillaItem: minecraft:slime_ball
+itemResource:
+  models:
+    default: "minecraft:item/tennis_ball"
+
+behaviour:
+  snowball:
+    hitCommands:
+      - summon item ~ ~ ~ {Item:{id:"doggo:tennis_ball",count:1},Motion:[0.0,0.5,0.0]}
+      - playsound minecraft:block.anvil.break neutral @a ~ ~ ~ 1 1
+    executeAtHit: true
+    
+components:
+  minecraft:item_name: "Tennis Ball"
+  minecraft:equippable:
+    slot: head
+    swappable: false
+    equip_on_interact: false
+    dispensable: false

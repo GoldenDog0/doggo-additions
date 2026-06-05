@@ -1,0 +1,153 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/iceball",
+		"particle": "item/iceball"
+	},
+	"elements": [
+		{
+			"name": "iceball_0",
+			"from": [6, 2, 8],
+			"to": [10, 14, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 2, 6, 14], "texture": "#0"},
+				"east": {"uv": [9, 2, 10, 14], "texture": "#0"},
+				"south": {"uv": [6, 2, 10, 14], "texture": "#0"},
+				"west": {"uv": [6, 2, 7, 14], "texture": "#0"},
+				"up": {"uv": [6, 2, 10, 3], "texture": "#0"},
+				"down": {"uv": [6, 13, 10, 14], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iceball_1",
+			"from": [4, 3, 8],
+			"to": [6, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [6, 3, 4, 13], "texture": "#0"},
+				"east": {"uv": [5, 3, 6, 13], "texture": "#0"},
+				"south": {"uv": [4, 3, 6, 13], "texture": "#0"},
+				"west": {"uv": [4, 3, 5, 13], "texture": "#0"},
+				"up": {"uv": [4, 3, 6, 4], "texture": "#0"},
+				"down": {"uv": [4, 12, 6, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iceball_2",
+			"from": [10, 3, 8],
+			"to": [12, 13, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [12, 3, 10, 13], "texture": "#0"},
+				"east": {"uv": [11, 3, 12, 13], "texture": "#0"},
+				"south": {"uv": [10, 3, 12, 13], "texture": "#0"},
+				"west": {"uv": [10, 3, 11, 13], "texture": "#0"},
+				"up": {"uv": [10, 3, 12, 4], "texture": "#0"},
+				"down": {"uv": [10, 12, 12, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iceball_3",
+			"from": [3, 4, 8],
+			"to": [4, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [4, 4, 3, 12], "texture": "#0"},
+				"east": {"uv": [3, 4, 4, 12], "texture": "#0"},
+				"south": {"uv": [3, 4, 4, 12], "texture": "#0"},
+				"west": {"uv": [3, 4, 4, 12], "texture": "#0"},
+				"up": {"uv": [3, 4, 4, 5], "texture": "#0"},
+				"down": {"uv": [3, 11, 4, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iceball_4",
+			"from": [12, 4, 8],
+			"to": [13, 12, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 4, 12, 12], "texture": "#0"},
+				"east": {"uv": [12, 4, 13, 12], "texture": "#0"},
+				"south": {"uv": [12, 4, 13, 12], "texture": "#0"},
+				"west": {"uv": [12, 4, 13, 12], "texture": "#0"},
+				"up": {"uv": [12, 4, 13, 5], "texture": "#0"},
+				"down": {"uv": [12, 11, 13, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iceball_5",
+			"from": [2, 6, 8],
+			"to": [3, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 6, 2, 10], "texture": "#0"},
+				"east": {"uv": [2, 6, 3, 10], "texture": "#0"},
+				"south": {"uv": [2, 6, 3, 10], "texture": "#0"},
+				"west": {"uv": [2, 6, 3, 10], "texture": "#0"},
+				"up": {"uv": [2, 6, 3, 7], "texture": "#0"},
+				"down": {"uv": [2, 9, 3, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "iceball_6",
+			"from": [13, 6, 8],
+			"to": [14, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [14, 6, 13, 10], "texture": "#0"},
+				"east": {"uv": [13, 6, 14, 10], "texture": "#0"},
+				"south": {"uv": [13, 6, 14, 10], "texture": "#0"},
+				"west": {"uv": [13, 6, 14, 10], "texture": "#0"},
+				"up": {"uv": [13, 6, 14, 7], "texture": "#0"},
+				"down": {"uv": [13, 9, 14, 10], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-26, 90, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-26, -90, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_righthand": {
+			"translation": [3.25, 0, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_lefthand": {
+			"translation": [3.25, 0, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"ground": {
+			"translation": [0, 1.5, -0.5],
+			"scale": [0.64, 0.64, 0.64]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 7, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.25]
+		},
+		"on_shelf": {
+			"translation": [0, 0, -4]
+		}
+	},
+	"groups": [
+		{
+			"name": "iceball",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6]
+		}
+	]
+}

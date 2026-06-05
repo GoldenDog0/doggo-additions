@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "equipment",
+    "ingredients": [
+        "minecraft:string",
+        "minecraft:green_dye",
+        "minecraft:slime_ball"
+    ],
+    "result": {
+        "count": 1,
+        "id": "doggo:tennis_ball"
+    }
+}

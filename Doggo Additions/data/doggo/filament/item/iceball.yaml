@@ -1,0 +1,13 @@
+id: doggo:iceball
+vanillaItem: minecraft:snowball
+itemResource:
+  models:
+    default: "minecraft:item/iceball"
+
+behaviour:
+  snowball:
+    hitCommand: playsound minecraft:block.anvil.break neutral @a ~ ~ ~ 1 1
+    power: 0.8
+    
+components:
+  minecraft:item_name: "Iceball"
