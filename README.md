@@ -23,7 +23,7 @@ Crafted by throwing together a slime ball, some green (or lime) die, and a strin
 
 <img width="188" height="128" alt="tennisCraft" src="https://github.com/user-attachments/assets/d46b4487-95bb-4f89-b47d-8b917dcb867c" />
 
-This will create a tennis ball which you can throw and catch. It even bounces! (Kinda!)
+This will create a tennis ball which you can throw and catch. It even bounces! *But only when it feels like it.*
 
 <img width="512" height="512" alt="tennisballin" src="https://github.com/user-attachments/assets/1003aa8c-2bdc-4edb-8d59-720a654a24e2" />
 
@@ -35,6 +35,28 @@ Crafted by packing 9 snowballs together in a crafting table.
 This item temporairly freezes water when it hits, helping to create platforms in the middle of the water for building or jumping.
 
 <img width="512" height="512" alt="iceballin" src="https://github.com/user-attachments/assets/a2c81386-71cf-4a3c-ae7a-8b5e55ac2c82" />
+
+## Cowboy Hat
+Made with some of the finest leather and some gold for your sherrif's badge that proves that you are the sherrif and *nobody can tell you otherwise.*
+
+<img width="272" height="160" alt="hat" src="https://github.com/user-attachments/assets/c104f10b-6424-4334-9a66-6dc155656a4c" />
+
+I don't think I need to explain what this one does. It's just a hat. Doesn't give defense, but *who needs a helmet anyways? Armor is for the brittle.*
+
+<img width="679" height="448" alt="2026-06-07_15 08 06" src="https://github.com/user-attachments/assets/67ea3ac6-58fa-4034-b4d4-dc8d2295a63d" />
+
+## Feather Block
+
+Made with a lot of feathers. And by a lot I mean a lot. Compress 9 feathers into a compressed feather, and 9 compressed feathers into a block. *It's a whole cubic meter of feathers after all.*
+
+<img width="272" height="160" alt="bigFeather" src="https://github.com/user-attachments/assets/da281bbd-b2dc-4062-af12-2a58852b977a" />
+
+<img width="272" height="160" alt="feather" src="https://github.com/user-attachments/assets/42810faa-1a6b-418d-84ea-222c8ac4bcda" />
+
+With this block, if you right click with it in midair, it places directly below you if possible. Also, if you walk on it you temporairly gain slow falling. This was designed so you dont take fall damage on it, but given how inconsistent it is in singleplayer I doubt it'll save you in multiplayer, so try using it to build in midair instead. Or don't, *it's not like I can force you to use it how it's intended anyways.*
+
+<img width="934" height="583" alt="feathered" src="https://github.com/user-attachments/assets/c9e5e945-d5a4-4215-b208-e57448ad41e9" />
+
 
 # Why isn't this on Modrinth or any other website?
 I made this for me and some friends, so I don't really feel like making it *that* public. I only have it here for ease of sharing and updates.
