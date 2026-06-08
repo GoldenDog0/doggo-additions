@@ -36,6 +36,15 @@ This item temporairly freezes water when it hits, helping to create platforms in
 
 <img width="512" height="512" alt="iceballin" src="https://github.com/user-attachments/assets/a2c81386-71cf-4a3c-ae7a-8b5e55ac2c82" />
 
+## Arm Kit
+Its just a buncha sticks.
+
+<img width="272" height="160" alt="armKit" src="https://github.com/user-attachments/assets/aaebb39c-3c29-40b0-8ef9-31c7fe858c51" />
+
+It's called an *arm*or stand, you'd expect it to have arms. But they don't, so now they do. Problem solved. Just right click with the arm kit and the nearest armor stand gains arms. Unfortuantely you can't right click the armor stand to select it because Minecraft, so just right click nothing when standing next to it. 
+
+<img width="850" height="496" alt="rearming" src="https://github.com/user-attachments/assets/c929c57d-6f3c-4c64-a5b7-b8adcc455eb7" />
+
 ## Cowboy Hat
 Made with some of the finest leather and some gold for your sherrif's badge that proves that you are the sherrif and *nobody can tell you otherwise.*
 
@@ -53,10 +62,21 @@ Made with a lot of feathers. And by a lot I mean a lot. Compress 9 feathers into
 
 <img width="272" height="160" alt="feather" src="https://github.com/user-attachments/assets/42810faa-1a6b-418d-84ea-222c8ac4bcda" />
 
-With this block, if you right click with it in midair, it places directly below you if possible. Also, if you walk on it you temporairly gain slow falling. This was designed so you dont take fall damage on it, but given how inconsistent it is in singleplayer I doubt it'll save you in multiplayer, so try using it to build in midair instead. Or don't, *it's not like I can force you to use it how it's intended anyways.*
+With this block, if you right click with it in midair, it places directly below you if possible, to assist in building midair. Also, if you walk on it you temporairly gain slow falling, which **most of the time** cancels fall damage. Sometimes it doesn't though, so *don't say I didn't warn you*,
 
 <img width="934" height="583" alt="feathered" src="https://github.com/user-attachments/assets/c9e5e945-d5a4-4215-b208-e57448ad41e9" />
 
+## Asphalt
+
+Throw together some black concrete powder for traction, cobblestone for solidity, and some slime to bond it all together.
+
+<img width="272" height="160" alt="asphalt" src="https://github.com/user-attachments/assets/0e7f398c-2e28-4388-b473-a8f5c7d4b50d" />
+
+
+This block makes you noticably faster when you run on it. You don't get a car, *you become the car.*
+
+<img width="571" height="521" alt="fastWalk" src="https://github.com/user-attachments/assets/7e588c82-ecc9-4d52-bff9-fbe6a28c321f" />
+<img width="571" height="521" alt="slowWalk" src="https://github.com/user-attachments/assets/a90a57b6-ef4d-4ad0-96a2-7776525bc910" />
 
 # Why isn't this on Modrinth or any other website?
 I made this for me and some friends, so I don't really feel like making it *that* public. I only have it here for ease of sharing and updates.
