@@ -3,7 +3,8 @@ vanillaItem: minecraft:slime_ball
 itemResource:
   models:
     default: "minecraft:item/tennis_ball"
-
+translations:
+  en_us: Tennis Ball
 behaviour:
   snowball:
     hitCommands:
@@ -12,7 +13,6 @@ behaviour:
     executeAtHit: true
     
 components:
-  minecraft:item_name: "Tennis Ball"
   minecraft:equippable:
     slot: head
     swappable: false

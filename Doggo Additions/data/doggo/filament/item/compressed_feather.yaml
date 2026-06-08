@@ -1,0 +1,7 @@
+id: doggo:compressed_feather
+vanillaItem: minecraft:feather
+itemResource:
+  models:
+    default: "minecraft:item/compressed_feather"
+translations:
+  en_us: Compressed Feather

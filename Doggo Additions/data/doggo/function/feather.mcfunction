@@ -1,0 +1,1 @@
+execute as @a at @s if block ~ ~-2 ~ doggo:feather_block run effect give @s minecraft:slow_falling 1 0 true

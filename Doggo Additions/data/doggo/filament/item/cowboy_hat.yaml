@@ -1,0 +1,10 @@
+id: doggo:cowboy_hat
+vanillaItem: minecraft:leather_helmet
+itemResource:
+  models:
+    default: "minecraft:item/cowboy_hat"
+translations:
+  en_us: Cowboy Hat
+components:
+  minecraft:equippable:
+    slot: head
