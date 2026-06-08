@@ -1,0 +1,29 @@
+id: doggo:feather_block
+vanillaItem: minecraft:feather
+translations:
+  en_us: Feather Block
+blockResource: 
+  models:
+    default: minecraft:block/feather_block
+blockModelType: full_block
+properties:
+  lore:
+    - Places below you midair if possible
+  blockBase: minecraft:white_wool
+  requires_tool: false
+  destroy_time: 0
+  transparent: true
+  loot_table: doggo:block/feather_block
+
+behaviour:
+  execute:
+    consumes: true
+    commands: 
+      - execute as @s at @s if block ~ ~-1 ~ minecraft:water run setblock ~ ~-1 ~ minecraft:air
+      - execute as @s at @s store success score @s temp run setblock ~ ~-1 ~ doggo:feather_block keep
+      - execute as @s at @s if score @s temp matches 0 run give @s doggo:feather_block 1
+      - execute as @s at @s if score @s temp matches 1 run give @s[gamemode=creative] doggo:feather_block
+      - scoreboard players reset @s temp
+  blockInteractExecute:
+    command: playsound minecraft:block.wool.hit block @a ~ ~ ~
+    atBlock: true

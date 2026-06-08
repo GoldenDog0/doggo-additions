@@ -1,0 +1,14 @@
+id: doggo:arm_kit
+vanillaItem: minecraft:stick
+translations:
+  en_us: Arm Kit
+itemResource:
+  models:
+    default: "minecraft:item/arm_kit"
+behavior:
+  execute:
+    consumes: true
+    commands: 
+      - execute store success score @s temp run data modify entity @n[type=minecraft:armor_stand] ShowArms set value 1b
+      - execute if score @s temp matches 0 run give @s doggo:arm_kit 1
+      - scoreboard players reset @s temp

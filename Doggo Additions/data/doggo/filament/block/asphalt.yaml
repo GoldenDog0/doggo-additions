@@ -1,0 +1,14 @@
+id: doggo:asphalt
+vanillaItem: minecraft:coal
+translations:
+  en_us: Asphalt
+blockResource:
+  models:
+    default: "minecraft:block/asphalt"
+blockModelType: full_block
+properties:
+  blockBase: minecraft:stone
+  requiresTool: true
+  explosionResistance: 10
+  destroyTime: 2
+  lootTable: doggo:block/asphalt

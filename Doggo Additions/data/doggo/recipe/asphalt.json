@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "c": "#minecraft:stone_crafting_materials",
+        "p": "minecraft:black_concrete_powder",
+        "s": "minecraft:slime_ball"
+    },
+    "pattern": [
+        "spp",
+        "ppc",
+        "ccc"
+    ],
+    "result": {
+        "count": 16,
+        "id": "doggo:asphalt"
+    }
+}

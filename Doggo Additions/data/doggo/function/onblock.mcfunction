@@ -1,0 +1,2 @@
+execute as @a at @s if block ~ ~-1 ~ doggo:feather_block run effect give @s minecraft:slow_falling 1 0 true
+execute as @a at @s if block ~ ~-1 ~ doggo:asphalt run effect give @s minecraft:speed 1 1 true
