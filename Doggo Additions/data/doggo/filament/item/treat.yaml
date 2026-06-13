@@ -1,0 +1,16 @@
+id: doggo:treat
+vanillaItem: minecraft:bone
+itemResource:
+  models:
+    default: "minecraft:item/treat"
+translations:
+  en_us: Treat
+components:
+  minecraft:consumable: {}
+  minecraft:food:
+    nutrition: 4
+    saturation: 6
+properties:
+  lore:
+    - <c:blue>Good food for an</c>
+    - <c:blue>good</c><c:gold> doggo<c/><c:blue>!</c>

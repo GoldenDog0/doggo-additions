@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        "grg",
+        " g "
+    ],
+    "key": {
+        "g": "minecraft:gold_ingot",
+        "r": "minecraft:fishing_rod"
+    },
+    "result": {
+        "id": "doggo:golden_rod",
+        "count": 1
+    }
+}
