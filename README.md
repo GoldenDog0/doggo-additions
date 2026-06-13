@@ -36,6 +36,15 @@ This item temporairly freezes water when it hits, helping to create platforms in
 
 <img width="512" height="512" alt="iceballin" src="https://github.com/user-attachments/assets/a2c81386-71cf-4a3c-ae7a-8b5e55ac2c82" />
 
+## Treat
+Wrap a bone in wheat and some sugar and now you have yourself a treat!
+
+<img width="188" height="126" alt="TREAT" src="https://github.com/user-attachments/assets/9650b5fd-e2ec-4908-b824-27aa28788c03" />
+
+Sure, you can't technically tame a wolf with these... but a *doggo* would surely love to eat one!
+
+<sub>Also no I'm **not** adding an image because it's literally just food, *you don't need a visual to know how to eat.*</sub>
+
 ## Arm Kit
 Its just a buncha sticks.
 
@@ -44,6 +53,15 @@ Its just a buncha sticks.
 It's called an *arm*or stand, you'd expect it to have arms. But they don't, so now they do. Problem solved. Just right click with the arm kit and the nearest armor stand gains arms. Unfortuantely you can't right click the armor stand to select it because Minecraft, so just right click nothing when standing next to it. 
 
 <img width="850" height="496" alt="rearming" src="https://github.com/user-attachments/assets/c929c57d-6f3c-4c64-a5b7-b8adcc455eb7" />
+
+## Golden Rod
+Just plate a fishing rod with a lotta gold.
+
+<img width="272" height="160" alt="rod" src="https://github.com/user-attachments/assets/85d8827c-2653-4bba-9bdc-9d24c34ccb2e" />
+
+This rod has twice the durability as a normal rod (128 instead of 64) and also comes equipped with Lure 5! Unfortunately you can't enchant it with a table, *believe me I tried my best,* however you can enchant it with books, so make sure to get a luck of the sea villager!
+
+<img width="718" height="370" alt="fishin" src="https://github.com/user-attachments/assets/f0c41ce8-fe74-4300-a8b4-d54b3044efe4" />
 
 ## Cowboy Hat
 Made with some of the finest leather and some gold for your sherrif's badge that proves that you are the sherrif and *nobody can tell you otherwise.*
